@@ -12,7 +12,7 @@
   "author": "",
   "license": "",
   "peerDependencies": {
-    "react": *,
-    "react-native": *,
+    "react": "*",
+    "react-native": "*"
   }
 }
